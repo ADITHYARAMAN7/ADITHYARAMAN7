@@ -7,9 +7,13 @@ Computer Science and Engineering
 🎓 Student at Amrita Vishwa Vidhyapeetham('27) 🛠Designing Dreams, One Pixel at a Time 🌐 Merging Logic with Aesthetics | AI | UX | Dev Magic 🧠 Training models, shaping futures – Machine Learning grind on 💻 Currently cooking up some app magic.
 
 * 🖥️  See my portfolio at [Adithya's](http://adithyaraman7.github.io/A/)
+* 
 * ✉️  You can contact me at [adithyaraman0407@gmail.com](mailto:adithyaraman0407@gmail.com)
+* 
 * 🧠  I'm learning AI, ML, DS, DB
+* 
 * 🤝  I'm open to collaborating on Designing and developing webs.
+* 
 * ⚡  Im Batman
 
 <a href="https://www.github.com/ADITHYARAMAN7" target="_blank" rel="noreferrer"><img
