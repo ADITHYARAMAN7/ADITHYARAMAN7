@@ -1,6 +1,10 @@
 ![Header](./github-header-image.png)
 
-🎓 Student at Amrita Vishwa Vidhyapeetham('27) 🛠Designing Dreams, One Pixel at a Time 🌐 Merging Logic with Aesthetics | AI | UX | Dev Magic 🧠 Training models, shaping futures – Machine Learning grind on 💻 Currently cooking up some app magic.
+🎓 Student at Amrita Vishwa Vidhyapeetham('27)
+🛠Designing Dreams, One Pixel at a Time
+🌐 Merging Logic with Aesthetics | AI | UX | Dev Magic
+🧠 Training models, shaping futures – Machine Learning grind on 
+💻 Currently cooking up some app magic.
 
 * 🖥️  See my portfolio at [Adithya's](http://adithyaraman7.github.io/A/)
 * 
