@@ -1,8 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adithyaraman
-====================================================================================================================================
-
-Computer Science and Engineering
---------------------------------
+![Header](./github-header-image.png)
 
 🎓 Student at Amrita Vishwa Vidhyapeetham('27) 🛠Designing Dreams, One Pixel at a Time 🌐 Merging Logic with Aesthetics | AI | UX | Dev Magic 🧠 Training models, shaping futures – Machine Learning grind on 💻 Currently cooking up some app magic.
 
