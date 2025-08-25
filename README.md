@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **adithyaraman0407@gmail.com**
 
-- ⚡ Fun fact **I'm Batman**
+- ⚡ Fun fact **I'm Batman.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
