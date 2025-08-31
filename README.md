@@ -18,9 +18,9 @@
 
 - ⚡ Fun fact **I'm Batman.**
 
-- 🪟 Windows 🗿
+- 🪟 Windows is 🗿
       
-- 🍎 macOS 🏳️‍🌈 
+- 🍎 macOS is 🏳️‍🌈 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
