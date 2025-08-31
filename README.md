@@ -18,6 +18,10 @@
 
 - ⚡ Fun fact **I'm Batman.**
 
+- 🪟 Windows 🗿
+      
+- 🍎 macOS 🏳️‍🌈 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adithyaraman-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithyaraman-r" height="30" width="40" /></a>
